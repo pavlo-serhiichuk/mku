@@ -20,7 +20,7 @@
   },
   "extends": [
     "plugin:react/recommended",
-    "airbnb-typescript",
+    "airbnb",
     "plugin:import/errors",
     "plugin:import/warnings",
     "plugin:import/typescript",
